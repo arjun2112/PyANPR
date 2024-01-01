@@ -1,0 +1,21 @@
+Processing 20 cars:
+img\Cars0.png: KL01CA2555
+img\Cars1.png: PGOMN112
+img\Cars2.png: Invalid license plate
+img\Cars3.png: DZIZYXR
+img\Cars4.png: Characters unreadable
+img\Cars5.png: Characters unreadable
+img\Cars6.png: 802LIN
+img\Cars7.png: Invalid license plate
+img\Cars8.png: Invalid license plate
+img\Cars9.png: Characters unreadable
+img\Cars10.png: Characters unreadable
+img\Cars11.png: CORS16K
+img\Cars12.png: Characters unreadable
+img\Cars13.png: Characters unreadable
+img\Cars14.png: ALR486
+img\Cars15.png: Characters unreadable
+img\Cars16.png: Invalid license plate
+img\Cars17.png: Invalid license plate
+img\Cars18.png: MS66YOB
+img\Cars19.png: Characters unreadable
